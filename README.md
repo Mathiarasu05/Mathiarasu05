@@ -14,7 +14,38 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="55%" align="center">
 
+```python
+class Mathi:
 
+    def __init__(self):
+        self.username = 'Mathiarasu R S'
+        self.name = 'Mathi'
+        self.position = 'Developer'
+        self.web = 'https://Mathi05.web.app'
+        self.blog = 'https://Mathi05.web.app/articles'
+        self.cv = 'https://Mathi05.web.app/resume'
+        self.Linkedin = 'https://www.linkedin.com/in/mathiarasu-r-s'
+        self.code = {
+            'backend': ['NodeJS', 'ExpressJS'],
+            'database': ['MySQL', 'Mongo DB'],
+            'devops': ['Docker', 'GitHub Actions'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS'],
+            'corss-palform': ['React Native']
+            'tools': ['GIT', 'GitHub'],
+            'misc': ['Firebase'],
+            'Design': ['Figma']
+        }
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = Mathi()
+    print(me)
+
+
+```
 
 
 <a href="https://Mathi.web.app/">
