@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mathiarasu R S
-![Visitor Count](https://komarev.com/ghpvc/?username=Mathiarasu05&color=blue)
+![Visitor](https://komarev.com/ghpvc/?username=Mathiarasu05&color=blue)
 
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
@@ -55,28 +55,3 @@ if __name__ == '__main__':
 <a href="https://Mathi.web.app/">
 <img height=200 width=275 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiarasu05&size_weight=0.7&count_weight=0.7&theme=dark#gh-dark-mode-only&exclude_repo=camps,Mathiarasu05.github.io,quadra,itsherotime&layout=compact&card_width=400" />
 </a>
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-</p>
-
-
-
-### 🔥 My Coding Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mathiarasu05&theme=radical)](https://git.io/streak-stats)
-
-### 🗣️ Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathiarasu05&layout=compact&theme=radical)
-
-
-## 📈 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathiarasu05&show_icons=true&theme=radical)
-
-
