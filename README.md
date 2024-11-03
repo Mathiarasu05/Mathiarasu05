@@ -52,9 +52,7 @@ Here are some highlights of my work:
 ---
 
 ## 📈 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mathiarasurs&show_icons=true&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathiarasu05&show_icons=true&theme=radical)
 ---
 
 ## 📫 Connect with Me
