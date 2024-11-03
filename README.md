@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # 👋 Hi, I'm Mathiarasu R S
+![Visitor Count](https://komarev.com/ghpvc/?username=Mathiarasu05&color=blue)
 
 I’m currently pursuing a **B.Tech in Computer Science and Business Systems** at **KPR Institute of Engineering and Technology**. With hands-on experience in **full-stack development, automation, prototyping, and AI applications**, I specialize in crafting user-centered software solutions.
 
