@@ -19,7 +19,7 @@ class Mathi {
     constructor() {
         this.username = 'Mathiarasu R S';
         this.name = 'Mathi';
-        this.position = 'Developer';
+        this.position = 'Developer 🚀 | Designer 🎨';
         this.web = 'https://Mathi05.web.app';
         this.blog = 'https://Mathi05.web.app/articles';
         this.cv = 'https://Mathi05.web.app/resume';
@@ -46,47 +46,6 @@ console.log(me.toString());
 
 ```
 
-### 🚀 **Skills & Technologies**
-
-**Backend**:
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-**Database**:
-- ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frontend**:
-- ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-
-**Design**:
-- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-**DevOps**:
-- ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
-
-### 💼 **About Me**
-
-```js
-class Mathi {
-  constructor() {
-    this.username = 'Mathiarasu R S';
-    this.name = 'Mathi';
-    this.position = 'Full Stack Developer';
-    this.web = 'https://Mathi05.web.app';
-    this.linkedin = 'https://www.linkedin.com/in/mathiarasu-r-s';
-    this.blog = 'https://Mathi05.web.app/articles';
-  }
-
-  toString() {
-    return `${this.name} | ${this.position}`;
-  }
-}
-console.log(new Mathi().toString());
 
 <a href="https://Mathi.web.app/">
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mathiarasu05&hide=prs&rank_icon=github&show_icons=true&theme=tokyonight" />
