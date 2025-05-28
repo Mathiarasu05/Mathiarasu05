@@ -1,12 +1,16 @@
 <!-- Portfolio badge -->
+![Visitor](https://komarev.com/ghpvc/?username=Mathiarasu05&color=blue)
+
+<br/>
+
 <p align="center">
-  <a href="https://mathi.me" target="_blank">
+  <a href="https://mathi05.web.app" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-FF0000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
 <!-- Banner Image -->
-![Visitor](https://komarev.com/ghpvc/?username=Mathiarasu05&color=blue)
+
 
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/mathiarasu-r-s" target="_blank">Mathiarasu R S</a></h1>
 
