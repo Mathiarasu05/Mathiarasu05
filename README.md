@@ -8,13 +8,13 @@
 
 <p align="center">
   
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="55%" align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="85%" align="center">
 
 </p>
 
 <p align="center">
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="260" width="390">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="55%" align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="85%" align="center">
 
 </p>
